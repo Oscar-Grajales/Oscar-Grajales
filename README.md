@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oscar-Grajales
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin, Laravel and Vue.js
 - 💞️ I’m looking to collaborate on small Web and Android projects
 - 📫 How to reach me: ograjales4@gmail.com
 
